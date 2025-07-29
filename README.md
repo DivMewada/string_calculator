@@ -58,28 +58,21 @@ Finished in 0.00115 seconds (files took 0.0379 seconds to load)
 ♻️ Refactor your code if needed, but keep tests green!
 ```
 
-🧠 TDD Commit History
+## 🧠 TDD Commit History
 Each step follows TDD:
 
-Write failing test
-
-Make it pass
-
-Refactor
-
-Commit with meaningful message
+* Write failing test
+* Make it pass
+* Refactor
+* Commit with meaningful message
 
 Sample commits:
+* `Add: return 0 for empty string`
+* `Add: handle one and two numbers`
+* `Add: support custom delimiter syntax`
+* `Add: raise error for negative numbers`
 
-Add: return 0 for empty string
-
-Add: handle one and two numbers
-
-Add: support custom delimiter syntax
-
-Add: raise error for negative numbers
-
-📸 Screenshots
+## 📸 Screenshots
 
 <img width="536" height="248" alt="image" src="https://github.com/user-attachments/assets/04b07034-9fff-475b-9b63-aa2d761b7c6a" />
 
