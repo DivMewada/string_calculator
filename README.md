@@ -19,19 +19,23 @@ Write a method `add(string numbers)` that:
   ```bash
   git clone https://github.com/your-username/string_calculator.git
   cd string_calculator
-
+  ```
 
 2. Install dependencies:
   ```bash
   bundle install
+  ```
 
 3. Run tests:
   ```bash
   bundle exec rspec --format doc
-
+  ```
  
 ## Example Test Output
 
+
+📦 Running TDD Step...
+🧪 Running RSpec tests with detailed output...
 
 StringCalculator
   .add
@@ -43,5 +47,12 @@ StringCalculator
     supports custom delimiter
     raises error for negative numbers
 
-Finished in 0.00114 seconds (files took 0.03842 seconds to load)
+Finished in 0.00115 seconds (files took 0.0379 seconds to load)
 7 examples, 0 failures
+
+
+✅ If tests passed, you may commit your changes:
+   git add .
+   git commit -m 'Add: <your message>'
+
+♻️ Refactor your code if needed, but keep tests green!
