@@ -57,3 +57,33 @@ Finished in 0.00115 seconds (files took 0.0379 seconds to load)
 
 ♻️ Refactor your code if needed, but keep tests green!
 ```
+
+🧠 TDD Commit History
+Each step follows TDD:
+
+Write failing test
+
+Make it pass
+
+Refactor
+
+Commit with meaningful message
+
+Sample commits:
+
+Add: return 0 for empty string
+
+Add: handle one and two numbers
+
+Add: support custom delimiter syntax
+
+Add: raise error for negative numbers
+
+📸 Screenshots
+
+
+
+### Optional Helper Script
+
+To simplify TDD runs, a helper script `run_tdd_step.sh` is included (optional).  
+It runs RSpec in documentation format and guides the developer to commit/refactor.
