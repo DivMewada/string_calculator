@@ -33,7 +33,7 @@ Write a method `add(string numbers)` that:
  
 ## Example Test Output
 
-
+```
 📦 Running TDD Step...
 🧪 Running RSpec tests with detailed output...
 
@@ -56,3 +56,4 @@ Finished in 0.00115 seconds (files took 0.0379 seconds to load)
    git commit -m 'Add: <your message>'
 
 ♻️ Refactor your code if needed, but keep tests green!
+```
