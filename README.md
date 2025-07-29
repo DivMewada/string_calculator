@@ -81,6 +81,9 @@ Add: raise error for negative numbers
 
 📸 Screenshots
 
+<img width="536" height="248" alt="image" src="https://github.com/user-attachments/assets/04b07034-9fff-475b-9b63-aa2d761b7c6a" />
+
+<img width="552" height="388" alt="image" src="https://github.com/user-attachments/assets/bd51054c-f169-4207-bc83-8c6f7b329709" />
 
 
 ### Optional Helper Script
